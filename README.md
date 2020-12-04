@@ -10,7 +10,7 @@ Registering for courses during spring is necessaey , especially with the focus t
 * "How can i register for spring semester?"
 * "Is computer programming offered in spring of 2021?"
 * "What are the minimum requirements for new intakes?"
-* "Which materials should be availed with oneslef during intake?"
+* "Which materials should be availed with oneself during intake?"
 
 ## Credits
 John Arebak
