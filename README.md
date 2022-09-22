@@ -2,7 +2,7 @@
 Calls for course-selection requirements and procedures
 
 ## About
-Registering for courses during spring is necessaey , especially with the focus to implement a full time online registration. As the covid-19 continues to rampage the world, there is need to identify ways in which it can be sorted to faciltate learning. As such, coming up with a skill which will learn regular questions and address them appropriately will be very effective. This course-selection skill will be trained to achieve that.
+Registering for courses during spring is necessary , especially with the focus to implement a full time online registration. As the covid-19 continues to rampage the world, there is need to identify ways in which it can be sorted to faciltate learning. As such, coming up with a skill which will learn regular questions and address them appropriately will be very effective. This course-selection skill will be trained to achieve that.
 
 ## Examples
 * "When is the deadline to register for spring semester?"
